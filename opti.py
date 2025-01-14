@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 def main():
     print("=== Graficador de Funciones Matemáticas ===")
     # Solicitar al usuario la función matemática
-    funcion = input("Ingrese la función en términos de la variable independiente (por ejemplo, x**2, np.sin(x)): ")
+    funcion = input("Ingrese la función en términos de la variable independiente: ")
     
     # Solicitar la variable independiente
-    variable = input("Ingrese la variable independiente (por ejemplo, x): ")
+    variable = input("Ingrese la variable independiente: ")
     
     # Solicitar el intervalo de graficación
     try:
