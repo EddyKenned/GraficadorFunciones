@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 def main():
     print("=== Graficador de Funciones ===")
     # Solicitar al usuario la función matemática
-    funcion = input("Ingrese la función en términos de la variable independiente: ")
+    funcion = input("Ingrese la función: ")
     
     # Solicitar la variable independiente
     variable = input("Ingrese la variable independiente: ")
