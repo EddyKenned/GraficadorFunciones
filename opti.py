@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def main():
-    print("=== Graficador de Funciones Matemáticas ===")
+    print("=== Graficador de Funciones ===")
     # Solicitar al usuario la función matemática
     funcion = input("Ingrese la función en términos de la variable independiente: ")
     
